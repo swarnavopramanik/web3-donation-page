@@ -33,7 +33,7 @@ function App() {
           </div>
           <div className="w-screen hover:text-yellow-500 hover:ease-in duration-150 text-xl font-bold text-center absolute bottom-0">
             <h2 className="" onClick={() => {
-              window.open('')
+              window.open('https://web3-donation-page.vercel.app/')
             }}>&copy; Dilsekh & Swarnavo </h2>
           </div>
         </div>
